@@ -1,0 +1,30 @@
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task36_Array_SumOddPosition\bin\Debug\net6.0\task36_Array_SumOddPosition.exe
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task36_Array_SumOddPosition\bin\Debug\net6.0\task36_Array_SumOddPosition.deps.json
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task36_Array_SumOddPosition\bin\Debug\net6.0\task36_Array_SumOddPosition.runtimeconfig.json
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task36_Array_SumOddPosition\bin\Debug\net6.0\task36_Array_SumOddPosition.dll
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task36_Array_SumOddPosition\bin\Debug\net6.0\task36_Array_SumOddPosition.pdb
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.AssemblyInfoInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.AssemblyInfo.cs
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.dll
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task36_Array_SumOddPosition\obj\Debug\net6.0\refint\task36_Array_SumOddPosition.dll
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.pdb
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.genruntimeconfig.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task36_Array_SumOddPosition\obj\Debug\net6.0\ref\task36_Array_SumOddPosition.dll
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task36_Array_SumOddPosition\bin\Debug\net6.0\task36_Array_SumOddPosition.exe
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task36_Array_SumOddPosition\bin\Debug\net6.0\task36_Array_SumOddPosition.deps.json
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task36_Array_SumOddPosition\bin\Debug\net6.0\task36_Array_SumOddPosition.runtimeconfig.json
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task36_Array_SumOddPosition\bin\Debug\net6.0\task36_Array_SumOddPosition.dll
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task36_Array_SumOddPosition\bin\Debug\net6.0\task36_Array_SumOddPosition.pdb
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.AssemblyInfoInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.AssemblyInfo.cs
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.dll
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task36_Array_SumOddPosition\obj\Debug\net6.0\refint\task36_Array_SumOddPosition.dll
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.pdb
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task36_Array_SumOddPosition\obj\Debug\net6.0\task36_Array_SumOddPosition.genruntimeconfig.cache
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task36_Array_SumOddPosition\obj\Debug\net6.0\ref\task36_Array_SumOddPosition.dll
