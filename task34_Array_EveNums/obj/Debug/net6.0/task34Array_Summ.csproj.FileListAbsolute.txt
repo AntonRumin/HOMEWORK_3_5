@@ -1,0 +1,30 @@
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task34Array_Summ\bin\Debug\net6.0\task34Array_Summ.exe
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task34Array_Summ\bin\Debug\net6.0\task34Array_Summ.deps.json
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task34Array_Summ\bin\Debug\net6.0\task34Array_Summ.runtimeconfig.json
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task34Array_Summ\bin\Debug\net6.0\task34Array_Summ.dll
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task34Array_Summ\bin\Debug\net6.0\task34Array_Summ.pdb
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task34Array_Summ\obj\Debug\net6.0\task34Array_Summ.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task34Array_Summ\obj\Debug\net6.0\task34Array_Summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task34Array_Summ\obj\Debug\net6.0\task34Array_Summ.AssemblyInfoInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task34Array_Summ\obj\Debug\net6.0\task34Array_Summ.AssemblyInfo.cs
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task34Array_Summ\obj\Debug\net6.0\task34Array_Summ.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task34Array_Summ\obj\Debug\net6.0\task34Array_Summ.dll
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task34Array_Summ\obj\Debug\net6.0\refint\task34Array_Summ.dll
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task34Array_Summ\obj\Debug\net6.0\task34Array_Summ.pdb
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task34Array_Summ\obj\Debug\net6.0\task34Array_Summ.genruntimeconfig.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task34Array_Summ\obj\Debug\net6.0\ref\task34Array_Summ.dll
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task34_Array_EveNums\bin\Debug\net6.0\task34Array_Summ.exe
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task34_Array_EveNums\bin\Debug\net6.0\task34Array_Summ.deps.json
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task34_Array_EveNums\bin\Debug\net6.0\task34Array_Summ.runtimeconfig.json
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task34_Array_EveNums\bin\Debug\net6.0\task34Array_Summ.dll
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task34_Array_EveNums\bin\Debug\net6.0\task34Array_Summ.pdb
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task34_Array_EveNums\obj\Debug\net6.0\task34Array_Summ.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task34_Array_EveNums\obj\Debug\net6.0\task34Array_Summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task34_Array_EveNums\obj\Debug\net6.0\task34Array_Summ.AssemblyInfoInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task34_Array_EveNums\obj\Debug\net6.0\task34Array_Summ.AssemblyInfo.cs
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task34_Array_EveNums\obj\Debug\net6.0\task34Array_Summ.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task34_Array_EveNums\obj\Debug\net6.0\task34Array_Summ.dll
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task34_Array_EveNums\obj\Debug\net6.0\refint\task34Array_Summ.dll
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task34_Array_EveNums\obj\Debug\net6.0\task34Array_Summ.pdb
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task34_Array_EveNums\obj\Debug\net6.0\task34Array_Summ.genruntimeconfig.cache
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task34_Array_EveNums\obj\Debug\net6.0\ref\task34Array_Summ.dll
