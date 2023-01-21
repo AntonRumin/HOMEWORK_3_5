@@ -1,0 +1,30 @@
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task38_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task38_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task38_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.AssemblyInfoInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task38_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.AssemblyInfo.cs
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task38_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task38_MinMaxDifference\bin\Debug\net6.0\task38_MinMaxDifference.exe
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task38_MinMaxDifference\bin\Debug\net6.0\task38_MinMaxDifference.deps.json
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task38_MinMaxDifference\bin\Debug\net6.0\task38_MinMaxDifference.runtimeconfig.json
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task38_MinMaxDifference\bin\Debug\net6.0\task38_MinMaxDifference.dll
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task38_MinMaxDifference\bin\Debug\net6.0\task38_MinMaxDifference.pdb
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task38_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.dll
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task38_MinMaxDifference\obj\Debug\net6.0\refint\task38_MinMaxDifference.dll
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task38_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.pdb
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task38_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.genruntimeconfig.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task38_MinMaxDifference\obj\Debug\net6.0\ref\task38_MinMaxDifference.dll
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task38_Array_MinMaxDifference\bin\Debug\net6.0\task38_MinMaxDifference.exe
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task38_Array_MinMaxDifference\bin\Debug\net6.0\task38_MinMaxDifference.deps.json
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task38_Array_MinMaxDifference\bin\Debug\net6.0\task38_MinMaxDifference.runtimeconfig.json
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task38_Array_MinMaxDifference\bin\Debug\net6.0\task38_MinMaxDifference.dll
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task38_Array_MinMaxDifference\bin\Debug\net6.0\task38_MinMaxDifference.pdb
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task38_Array_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task38_Array_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task38_Array_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.AssemblyInfoInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task38_Array_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.AssemblyInfo.cs
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task38_Array_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task38_Array_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.dll
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task38_Array_MinMaxDifference\obj\Debug\net6.0\refint\task38_MinMaxDifference.dll
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task38_Array_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.pdb
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task38_Array_MinMaxDifference\obj\Debug\net6.0\task38_MinMaxDifference.genruntimeconfig.cache
+C:\Users\anton\Documents\GEEK BRAINS\Work_GIT\HOMEWORK_3_5\task38_Array_MinMaxDifference\obj\Debug\net6.0\ref\task38_MinMaxDifference.dll
