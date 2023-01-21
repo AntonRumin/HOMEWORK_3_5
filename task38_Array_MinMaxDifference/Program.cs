@@ -4,7 +4,7 @@
 [3 7 22 2 78] -> 76
 */
 Console.Clear();
-// Функция ввода значений
+// Функция ввода значений числа
 int GetNumber(string msg)
 {
     int result = 0;
